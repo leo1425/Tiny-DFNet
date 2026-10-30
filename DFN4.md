@@ -46,7 +46,7 @@ maturin develop --release --features hdf5-static -m pyDF-data/Cargo.toml
 
 ### Enhancement
 
-[Same as DFNet](https://github.com/leo1425/Tiny-DFNet/blob/08939bf63025f8854c079ff06484f4c3b96120ce/README.md#usage)
+[Same as DFNet](https://github.com/leo1425/Tiny-DFNet/blob/08939bf63025f8854c079ff06484f4c3b96120ce/README.md)
 
 
 
@@ -77,7 +77,7 @@ optional arguments:
 
 ### Training
 
-[Same as DFNet](https://github.com/leo1425/Tiny-DFNet/blob/08939bf63025f8854c079ff06484f4c3b96120ce/README.md#training)
+[Same as DFNet](https://github.com/leo1425/Tiny-DFNet/blob/08939bf63025f8854c079ff06484f4c3b96120ce/README.md)
 The entry point is `DeepFilterNet/df/train.py`. It expects a data directory containing HDF5 dataset
 as well as a dataset configuration json file.
 
